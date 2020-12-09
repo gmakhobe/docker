@@ -1,0 +1,2 @@
+#Outside created docker-machine
+docker-machine rm -y Aiur

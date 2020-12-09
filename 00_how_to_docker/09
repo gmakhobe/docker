@@ -1,0 +1,4 @@
+#Install Debian first then run the following commands
+apt-get update
+apt-get upgrade -y
+apt install -y build-essential git

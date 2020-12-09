@@ -1,0 +1,2 @@
+#From here SSH into Char
+docker pull hello-world

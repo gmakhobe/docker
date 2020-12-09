@@ -1,0 +1,2 @@
+#Get the docker-machine ip first by exititng the machine and after ssh back
+docker swarm init --advertise-addr $(docker-machine ip Char)
